@@ -1,0 +1,9 @@
+C:\Projects\NG_AspNetCore\dotnetWeb\bin\Debug\netcoreapp1.1\dotnetWeb.deps.json
+C:\Projects\NG_AspNetCore\dotnetWeb\bin\Debug\netcoreapp1.1\dotnetWeb.runtimeconfig.json
+C:\Projects\NG_AspNetCore\dotnetWeb\bin\Debug\netcoreapp1.1\dotnetWeb.runtimeconfig.dev.json
+C:\Projects\NG_AspNetCore\dotnetWeb\bin\Debug\netcoreapp1.1\dotnetWeb.dll
+C:\Projects\NG_AspNetCore\dotnetWeb\bin\Debug\netcoreapp1.1\dotnetWeb.pdb
+C:\Projects\NG_AspNetCore\dotnetWeb\obj\Debug\netcoreapp1.1\dotnetWeb.AssemblyInfo.cs
+C:\Projects\NG_AspNetCore\dotnetWeb\obj\Debug\netcoreapp1.1\dotnetWeb.dll
+C:\Projects\NG_AspNetCore\dotnetWeb\obj\Debug\netcoreapp1.1\dotnetWeb.pdb
+C:\Projects\NG_AspNetCore\dotnetWeb\obj\Debug\netcoreapp1.1\dotnetWeb.csprojResolveAssemblyReference.cache
