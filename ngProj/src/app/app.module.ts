@@ -7,6 +7,8 @@ import { AboutComponent } from './about/about.component';
 import { AboutModule } from './about/about.module';
 import { HomeModule } from './home/home.module';
 import { App2Module } from './app2/app2.module';
+import { CertModule } from './cert/cert.module';
+import { GlobalModule } from './global/global.module';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,9 @@ import { App2Module } from './app2/app2.module';
     AppRoutingModule,
     AboutModule,
     HomeModule,
-    App2Module
+    App2Module,
+    CertModule,
+    GlobalModule
   ],
   providers: [],
   bootstrap: [AppComponent]
