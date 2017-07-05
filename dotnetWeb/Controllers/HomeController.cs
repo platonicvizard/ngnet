@@ -16,9 +16,9 @@
             return Content(fileContents, contentType);
         }
 
-        public IActionResult Error()
-        {
-            return ActionResult();
-        }
+        //public IActionResult Error()
+        //{
+        //    return ActionResult();
+        //}
         }
 }
